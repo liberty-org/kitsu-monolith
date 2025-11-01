@@ -1,6 +1,6 @@
 [submodule "kitsu-dev"]
 	path = kitsu-dev
-	url = git@github.com:fyc-solution/kitsu.git
+	url = git@github.com:liberty-org/kitsu.git
 [submodule "zou-dev"]
 	path = zou-dev
-	url = git@github.com:fyc-solution/zou.git
+	url = git@github.com:liberty-org/zou.git
